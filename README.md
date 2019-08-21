@@ -17,10 +17,4 @@ To run the server
     pip install -r "requirements.txt"
     python main.py
 
-Published on Medium - 
-
-https://codeburst.io/building-your-first-chat-application-using-flask-in-7-minutes-f98de4adfa5d
-
-
-This article is authored by [Samhita Alla](https://github.com/samhita-alla) and [Vihar Kurama](https://github.com/vihar)
 
