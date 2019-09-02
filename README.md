@@ -1,8 +1,5 @@
-# Building your first Chat Application using Flask in 7 minutes
+# Building your first Chat Application using Flask 
 
-A fully functional chat application developed on socket.io with bootstrap frontend.
-
-Code for the article published on medium. Corrections are welcome :)
 
 ### Topics explained
 
